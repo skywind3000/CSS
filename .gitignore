@@ -1,0 +1,8 @@
+.vscode/
+.root
+.tasks
+
+__pycache__/
+*.pyc
+*.pyo
+
